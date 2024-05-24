@@ -21,9 +21,9 @@ The first step in carrying out these demonstrations is to have a method of commu
 
 After installing the arduino, we need to add the library that will enable communication with our ESP8266.
 
-![File->Preferences->Additional boards manager URLs](https://imgur.com/a/ZDsGyHd)
+![File->Preferences->Additional boards manager URLs](Images\add_URL.png?raw=true)
 
-Here you need to add the following [link](https://arduino.esp8266.com/stable/package_esp8266com_index.json).
+Here you need to add the following link: `https://arduino.esp8266.com/stable/package_esp8266com_index.json`.
 
 
 ### [Timing Attack ESP-ESP via Wi-Fi](ESP-ESP_Timing_attack)
