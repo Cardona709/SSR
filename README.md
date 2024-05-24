@@ -28,12 +28,15 @@ Here you need to add the following link: `https://arduino.esp8266.com/stable/pac
 
 ### [Timing Attack ESP-ESP via Wi-Fi](ESP-ESP_Timing_attack)
 
+For this demonstration you will need two 8266 ESPs.
+After connecting both to the PC on different USB ports, you need to open 2 Arduino IDE apps and choose the COM that identifies each ESP: `Tools->Port`.
+Then you need to compile and upload script [Attacker](ESP-ESP_Timing_attack/Attack/Attacker.ino) and [Host](ESP-ESP_Timing_attack/Host/Host.inoHost.ino) for the ESP you want to serve as the attacker and the one that will be the victim.
 
 
 
 ### [Demonstration of Spectre Attack ESP-PC](ESP-PC_Spectre_attack)
 
-
+For this last demonstration we will only need an ESP 8266 and the PC that will be connected to the AP created by this ESP.
 
 
 
