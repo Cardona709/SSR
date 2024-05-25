@@ -1,4 +1,5 @@
-# SSR
+#
+ SSR
 
 All the work carried out on this repository was done as part of the final project for FEUP's Security of Systems and Networks course ([M.EEC047]).
 
@@ -36,7 +37,7 @@ Then you need to compile and upload script [Attacker](ESP-ESP_Timing_attack/Atta
 
 ### [Demonstration of Spectre Attack ESP-PC](ESP-PC_Spectre_attack)
 
-For this last demonstration, we will only need an ESP 8266 and the PC that will be connected to the AP created by this ESP. Start by connecting the computer to the ESP's AP, then on a browser of choice input the ESP's IP on the search bar and connect to the Webpage. After entering the Website open the browser's console to see the attack's result.
+For this last demonstration, we will only need an ESP 8266 and the PC that will be connected to the AP created by this ESP. Start by compiling and uploading the [script](ESP-PC_Spectre_attack/SpectreESP.ino) to the ESP, then connect the computer to the ESP's AP, then on a browser of choice input the ESP's IP on the search bar and connect to the Webpage. After entering the Website open the browser's console to see the attack's result.
 
 
 
