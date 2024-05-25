@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lopes"
+  given-names: "António"
+- family-names: "Cardona"
+  given-names: "Diogo"
+- family-names: "Câmara"
+  given-names: "Francisco"
+- family-names: "Alves"
+  given-names: "Rodrigo"
+title: "SSR"
+date-released: 2024-05-25
+url: "https://github.com/Cardona709/SSR"
