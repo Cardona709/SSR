@@ -1,5 +1,4 @@
-#
- SSR
+# SSR
 
 All the work carried out on this repository was done as part of the final project for FEUP's Security of Systems and Networks course ([M.EEC047]).
 
